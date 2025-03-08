@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Orlando Martínez</h1> <h3 align="center">A passionate developer from the Dominican Republic 🌴</h3> <p align="center"> 🚀 I specialize in building web and mobile applications using modern technologies like <strong>React, Angular, Node.js</strong>, and more! I'm constantly learning and eager to collaborate on exciting projects. </p>
 💬 How to Reach Me
-📧 Email: omartinez4334@gmail.com
+
 
 🌐 Connect With Me
 <p align="left"> <a href="https://linkedin.com/in/orlando-martinez-501922279" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Orlando Martínez" height="30" width="40"/> </a> </p>
