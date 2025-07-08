@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola! Soy Orlando Martínez</h1>
-<h3 align="center">Desarrollador web y móvil apasionado desde República Dominicana 🇩🇴</h3>
+<h3 align="center">Desarrollador web  apasionado desde República Dominicana 🇩🇴</h3>
 
 <p align="center">
 🚀 Soy un desarrollador enfocado en crear soluciones modernas, funcionales y escalables. Me especializo en tecnologías como <strong>Angular, React, Node.js</strong> y más. <br />
