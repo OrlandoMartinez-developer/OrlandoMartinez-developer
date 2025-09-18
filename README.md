@@ -13,8 +13,8 @@
 
 - 🎓 Estudiante de Ingeniería en Sistemas y Desarrollo de Software.
 - 🛠️ Trabajo con tecnologías como **Angular, React, Node.js, C#, TypeScript, Python, Electron**, entre otras.
-- 🎮 Interesado en el desarrollo de videojuegos, inteligencia artificial y software empresarial.
-- 🌱 En constante formación en áreas como **full-stack**, **UI/UX**, **ciberseguridad** y **arquitectura de sistemas**.
+- 🎮 Interesado en el desarrollo de videojuegos, inteligencia artificial y software en general.
+- 🌱 En constante formación en áreas como **full-stack**, **UI/UX**  y **arquitectura de sistemas**.
 - 🧘‍♂️ En mi tiempo libre, estudio, entreno o trabajo en ideas creativas.
 
 ---
